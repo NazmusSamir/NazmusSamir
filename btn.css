@@ -1,0 +1,41 @@
+body{
+  background-color: #181a1b ;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background: url('/Users/imacslim2015/Documents/programing/node projects/project_1/img/img/pexels-felix-mittermeier-1146134.jpg');
+}
+
+.center{
+  display:flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  
+}
+
+.headline{
+  display:flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  align-self: center;
+}
+
+
+#searchBar{
+  flex-direction: row;
+  ;
+}
+
+#container{
+  height: 100vh;
+  
+  background-color: aliceblue;
+}
+
+
+
+
+
